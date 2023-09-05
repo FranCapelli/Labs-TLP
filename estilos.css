@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1,h3{
+    text-align: center;
+}
+
+#estudio{
+    padding-top: 3vw;
+    
+}
+
+#trabajo{
+    padding-top: 2vw;
+}
+
+.col,.col-6{
+    border-style: dashed;
+    border-color: rgb(196, 135, 253);
+    border-width: 2px;
+}
+
+
+
+
+ul{
+  font-size: 15px;
+}
